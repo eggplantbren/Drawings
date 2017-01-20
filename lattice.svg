@@ -14,7 +14,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92pre3 r"
+   inkscape:version="0.92.0 r"
    sodipodi:docname="lattice.svg">
   <defs
      id="defs4" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="423.05769"
-     inkscape:cy="895.93021"
+     inkscape:zoom="2.8"
+     inkscape:cx="346.16557"
+     inkscape:cy="516.05276"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -224,5 +224,53 @@
        d="m 341.39999,100.30527 v 55.38317"
        id="path3815"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="311.61621"
+       y="615.75513"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         x="311.61621"
+         y="615.75513"
+         style="stroke-width:0.9375px">A|B|C|D</tspan></text>
+    <g
+       id="g54"
+       transform="translate(0,12.719536)">
+      <text
+         id="text48"
+         y="544.10327"
+         x="270.53574"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375px"
+           y="544.10327"
+           x="270.53574"
+           id="tspan46"
+           sodipodi:role="line">AB|CD</tspan></text>
+      <text
+         id="text52"
+         y="544.10327"
+         x="370.98215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375px"
+           y="544.10327"
+           x="370.98215"
+           id="tspan50"
+           sodipodi:role="line">AC|BD</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="323.4375"
+       y="497.89792"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         x="323.4375"
+         y="497.89792"
+         style="stroke-width:0.9375px">ABCD</tspan></text>
   </g>
 </svg>
