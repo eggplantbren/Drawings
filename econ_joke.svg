@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="econ_joke.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4526"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4529"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2686394"
+     inkscape:cx="481.59246"
+     inkscape:cy="942.10734"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 61.471992,12.195642 v 79.54136 H 158.7581"
+       id="path4518"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.36423"
+       y="98.953278"
+       id="text4836"><tspan
+         sodipodi:role="line"
+         id="tspan4834"
+         x="102.36423"
+         y="98.953278"
+         style="stroke-width:0.26458332;font-size:4.58611111px">Quantity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-63.504795"
+       y="57.329189"
+       id="text4840"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4838"
+         x="-63.504795"
+         y="57.329189"
+         style="font-size:4.58611107px;stroke-width:0.26458332">Price</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 61.471994,90.149499 151.17792,37.572966"
+       id="path4861"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 76.604383,17.868643 150.36753,91.631789"
+       id="path4863"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 61.543567,73.26821 150.4192,21.143455"
+       id="path4861-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 105.83333,47.063246 V 64.164702"
+       id="path4880"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000080;stroke-width:1.88976395;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 401.03419,210.73923 v -30.23177 l 18.91323,18.90314 c 10.40228,10.39672 18.67907,19.1298 18.39286,19.40683 -0.28621,0.27703 -7.75252,4.73556 -16.59181,9.90784 -8.83928,5.17228 -17.11607,10.0435 -18.39286,10.82494 l -2.32142,1.4208 z"
+       id="path4884"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ff0000;stroke-width:1.88976395;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 234.06226,307.91097 0.18621,-30.9508 81.78572,-47.66934 c 44.98214,-26.21814 82.02678,-47.68121 82.32142,-47.6957 0.29465,-0.0145 0.53572,13.59356 0.53572,30.24012 v 30.26646 l -79.82143,46.79216 c -43.90179,25.73568 -81.03023,47.5067 -82.50764,48.38002 l -2.68622,1.58788 z"
+       id="path4886"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3398962px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.196278"
+       y="103.57728"
+       id="text4890"
+       transform="rotate(-30.812019)"><tspan
+         sodipodi:role="line"
+         id="tspan4888"
+         x="32.196278"
+         y="103.57728"
+         style="stroke-width:0.26458332">Theft</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82596993px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.84313"
+       y="57.952663"
+       id="text4894"><tspan
+         sodipodi:role="line"
+         x="110.84313"
+         y="57.952663"
+         style="font-size:1.41298497px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan4896">Trickle Down</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.247185"
+       y="46.592693"
+       id="text4902"><tspan
+         sodipodi:role="line"
+         id="tspan4900"
+         x="67.247185"
+         y="46.592693"
+         style="stroke-width:0.26458332">Invisible Hand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="127.59908"
+       y="-43.018452"
+       id="text4906"
+       transform="rotate(45)"><tspan
+         sodipodi:role="line"
+         id="tspan4904"
+         x="127.59908"
+         y="-43.018452"
+         style="stroke-width:0.26458332">Unmet needs</tspan></text>
+  </g>
+</svg>
